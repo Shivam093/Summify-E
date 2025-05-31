@@ -6,7 +6,7 @@
 
 - **Customizable Summary Length:** Users can choose the desired length of the summary.
 - **Multiple Input Formats:** Supports direct text input, URLs, and document uploads (PDF/Word).
-- **Advanced Metrics for Summary Quality:** Includes ROUGE scores, Flesch Reading Ease, and Gunning Fog Index to ensure readability and accuracy of summaries.
+- **Advanced Metrics for Summary Quality:** Includes ROUGE scores, Flesch Reading Ease, and Gunning Fog Index to ensure readability and accuracy of the summaries.
 
 ## Technologies Used
 
